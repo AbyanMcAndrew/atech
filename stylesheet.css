@@ -83,3 +83,7 @@ a {
 p.selected {
   color:white;
 }
+
+p.selected hover {
+  color:blue;
+}
